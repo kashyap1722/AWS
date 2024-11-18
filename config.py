@@ -1,4 +1,4 @@
-customhost = "mydbe.chw4esqowxis.us-east-1.rds.amazonaws.com"
+customhost = "dbempp.chw4esqowxis.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "password"
 customdb = "employee"
