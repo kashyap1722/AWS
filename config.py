@@ -1,6 +1,6 @@
-customhost = "dbempp.chw4esqowxis.us-east-1.rds.amazonaws.com"
+customhost = "database.c72a8u0me51r.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "password"
 customdb = "employee"
-custombucket = "kashu7700"
+custombucket = "mybucket7700"
 customregion = "us-east-1"
